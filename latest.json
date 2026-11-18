@@ -1,4 +1,12 @@
 {
   "phone": {},
-  "minimum": {}
+  "minimum": {},
+  "desktop": {
+    "version": "2.15.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.0/Elite-4-Lazy-Vendor-Desk-2.15.0.exe",
+    "sha256": "4c9e1d282d4047bcc6ad2761bd789b39bc137a92fc63fb5050819c47a0ccf6d0",
+    "size": 111810546,
+    "notes": "2.15.0: the program now updates itself. New versions download in the background; Restart now switches, or they're used the next time it opens. Settings → Updates shows the version and checks on demand.",
+    "date": "2026-11-18"
+  }
 }
