@@ -10,21 +10,21 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.15.3",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.3/lvd-web-0.15.3.zip",
-      "sha256": "1aff2a03918e94c6804cef9f02503c7cc6d11b8518793e2f4bfad84d806b0931",
+      "version": "0.16.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.16.0/lvd-web-0.16.0.zip",
+      "sha256": "f6a549729f7baf5e4a704bc532505d5f2295fd1a8649c6e0b4172254e18dbebd",
       "minBuild": 26,
-      "notes": "The light red Certification # reminder now also turns on when Con/Grade/Sealed starts with PSA, BGS, CGC, TAG or SGC.",
+      "notes": "Date Acq on each Incoming Product(s) line (today to start with), with a calendar button that gives every line the first line's date: for entering a trade from another day.",
       "date": "2026-11-18"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.16.2",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.16.2/Elite-4-Lazy-Vendor-Desk-2.16.2.exe",
-    "sha256": "4e277c99c43dbf2befab4ff7b8d069297068d90e98578359bc215120ba34a852",
-    "size": 111809858,
-    "notes": "Inventory Manager: no stray check box when there are no items yet.",
+    "version": "2.17.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.17.0/Elite-4-Lazy-Vendor-Desk-2.17.0.exe",
+    "sha256": "fde3cef52e49f4ddfa5a2a8e7503a433ab33c6f1f5d1fa1066aadcbf6bc576e9",
+    "size": 111813436,
+    "notes": "Date Acq on each Incoming Product(s) line (today to start with), with a calendar button that gives every line the first line's date: for entering a trade from another day.",
     "date": "2026-11-18"
   }
 }
