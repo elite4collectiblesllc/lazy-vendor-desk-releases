@@ -10,21 +10,21 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.15.1",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.1/lvd-web-0.15.1.zip",
-      "sha256": "36eab8fe3bc25ad6d443520e888bc69e5372bc4e583073ff3fee4d90638ca0b0",
+      "version": "0.15.2",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.2/lvd-web-0.15.2.zip",
+      "sha256": "09c5e7f6a5046d8af865601c3b2591c3679f010b62da66d241c62bdfff53ab41",
       "minBuild": 26,
-      "notes": "New hints (Card or Product Name; Set, Grading Comp., MISC; Con/Grade/Sealed), Incoming Product(s). Phone: Location Acquired starts blank, Notes without \"Optional.\", room between Complete Transaction and Clear, no \"split evenly\" note. Windows: a tidier Theme card in Settings.",
+      "notes": "Scan Cards reads graded slabs (Cards / Graded Slab): Description 2 the set, Con/Grade/Sealed the company and grade (PSA 10, BGS 10 BL, CGC 10 PRIS), Certification # from the label. Description 2's hint is now \"Card or Product set\".",
       "date": "2026-11-18"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.15.3",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.3/Elite-4-Lazy-Vendor-Desk-2.15.3.exe",
-    "sha256": "648fe6dc489193049a81cd3607ab7eb782db093dd706cbc3b4bbf26cd5f154f5",
-    "size": 111805574,
-    "notes": "New hints (Card or Product Name; Set, Grading Comp., MISC; Con/Grade/Sealed), Incoming Product(s). Phone: Location Acquired starts blank, Notes without \"Optional.\", room between Complete Transaction and Clear, no \"split evenly\" note. Windows: a tidier Theme card in Settings.",
+    "version": "2.15.4",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.4/Elite-4-Lazy-Vendor-Desk-2.15.4.exe",
+    "sha256": "7a94a387c3cc7b5bb6c2b6871667916db0bf36003658bd8bb45950edcb862283",
+    "size": 111808785,
+    "notes": "Scan Cards reads graded slabs (Cards / Graded Slab): Description 2 the set, Con/Grade/Sealed the company and grade (PSA 10, BGS 10 BL, CGC 10 PRIS), Certification # from the label. Description 2's hint is now \"Card or Product set\".",
     "date": "2026-11-18"
   }
 }
