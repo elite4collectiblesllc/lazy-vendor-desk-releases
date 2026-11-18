@@ -20,11 +20,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.15.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.0/Elite-4-Lazy-Vendor-Desk-2.15.0.exe",
-    "sha256": "4c9e1d282d4047bcc6ad2761bd789b39bc137a92fc63fb5050819c47a0ccf6d0",
-    "size": 111810546,
-    "notes": "2.15.0: the program now updates itself. New versions download in the background; Restart now switches, or they're used the next time it opens. Settings → Updates shows the version and checks on demand.",
+    "version": "2.15.1",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.1/Elite-4-Lazy-Vendor-Desk-2.15.1.exe",
+    "sha256": "e1a6fb411a4abf0abdbe80750614f6fab32e9116ad47987f3fbbe5aff42e6034",
+    "size": 111803992,
+    "notes": "2.15.1: test update. The Outgoing Items header on the Process Buy/Sell/Trade tab now reads Outgoing Item(s).",
     "date": "2026-11-18"
   }
 }
