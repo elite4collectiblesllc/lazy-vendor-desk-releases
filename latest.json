@@ -1,5 +1,23 @@
 {
-  "phone": {},
+  "phone": {
+    "apk": {
+      "version": "0.14.0",
+      "build": 22,
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.14.0/Lazy-Vendor-Desk-0.14.0-build22.apk",
+      "sha256": "2c697e32fc181fe5647b992d25f19806350dd3530552689c682b43a13c628431",
+      "size": 29594270,
+      "notes": "0.14.0: the phone app now updates itself. Updates download in the background and are used the next time the app opens; a new version of the app itself is offered with Install when one is needed.",
+      "date": "2026-11-18"
+    },
+    "web": {
+      "version": "0.14.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.14.0/lvd-web-0.14.0.zip",
+      "sha256": "a1f53b95a4591a204d980bc7ac4cec3f5f616e8ec8aedc4c0cd82f081b400d87",
+      "minBuild": 22,
+      "notes": "0.14.0: the phone app now updates itself. Updates download in the background and are used the next time the app opens; a new version of the app itself is offered with Install when one is needed.",
+      "date": "2026-11-18"
+    }
+  },
   "minimum": {},
   "desktop": {
     "version": "2.15.0",
