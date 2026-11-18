@@ -20,11 +20,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.18.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.18.0/Elite-4-Lazy-Vendor-Desk-2.18.0.exe",
-    "sha256": "1c8df60c6e90ade5e36ced9f498c34fa314cb3505da9e27078b49723029d8a2f",
-    "size": 111813709,
-    "notes": "Cost Basis on Incoming Product(s) can now be typed or pasted (per item). Blank lines are still calculated: they split whatever's left of the Total Incoming Cost. Typed costs can't add up to more than that total, and when every line is typed they have to match it exactly before the transaction can be saved.",
+    "version": "2.18.1",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.18.1/Elite-4-Lazy-Vendor-Desk-2.18.1.exe",
+    "sha256": "6daac1de0c123bb805d0c3762d09c30652591e9310b7ae2b6e062824eed88a16",
+    "size": 111817023,
+    "notes": "Fixes a computer ending up on a second shop: Phones & cloud now lists your shops first, with when each was started, and asks before starting a new one. A same-name copy can be removed from your shops. Transactions saved on a computer while it wasn't connected can be added to the shop (Add to the Shop). A red bar warns when a computer isn't on the shop its folder's Inventory Manager.xlsx belongs to.",
     "date": "2026-11-18"
   }
 }
