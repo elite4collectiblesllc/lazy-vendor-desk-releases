@@ -1,30 +1,30 @@
 {
   "phone": {
     "apk": {
-      "version": "0.14.0",
-      "build": 22,
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.14.0/Lazy-Vendor-Desk-0.14.0-build22.apk",
-      "sha256": "2c697e32fc181fe5647b992d25f19806350dd3530552689c682b43a13c628431",
-      "size": 29594270,
-      "notes": "0.14.0: the phone app now updates itself. Updates download in the background and are used the next time the app opens; a new version of the app itself is offered with Install when one is needed.",
+      "version": "0.15.0",
+      "build": 26,
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.0/Lazy-Vendor-Desk-0.15.0-build26.apk",
+      "sha256": "ed2d12733e130a290086c3bb25243d59561ef8ad6c2be2bc81be04a53003d2b1",
+      "size": 29600646,
+      "notes": "Scan Cards on the phone (a photo of the cards → Incoming Product lines; a shop owner sets it up in Settings → Card Scanner with the shop's Ximilar key). Description 1 is now the card name and number (\"Charizard ex 223/197\") and Description 2 the set, for Upload TCG Player CSV, pasting TCGplayer columns and Scan Cards alike.",
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.14.2",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.14.2/lvd-web-0.14.2.zip",
-      "sha256": "d7d10bde67c445cc824ac5cef24e34ad54e99efa71b1026f3aa7579fdfe1b30a",
-      "minBuild": 22,
-      "notes": "0.14.2: Inventory → Select now has Deactivate, to archive all the checked items at once.",
+      "version": "0.15.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.0/lvd-web-0.15.0.zip",
+      "sha256": "c94aa16b3e34196ad678b43e589b81097c563e53b0bbac5f850b57c4becf9052",
+      "minBuild": 26,
+      "notes": "Scan Cards on the phone (a photo of the cards → Incoming Product lines; a shop owner sets it up in Settings → Card Scanner with the shop's Ximilar key). Description 1 is now the card name and number (\"Charizard ex 223/197\") and Description 2 the set, for Upload TCG Player CSV, pasting TCGplayer columns and Scan Cards alike.",
       "date": "2026-11-18"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.15.1",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.1/Elite-4-Lazy-Vendor-Desk-2.15.1.exe",
-    "sha256": "e1a6fb411a4abf0abdbe80750614f6fab32e9116ad47987f3fbbe5aff42e6034",
-    "size": 111803992,
-    "notes": "2.15.1: test update. The Outgoing Items header on the Process Buy/Sell/Trade tab now reads Outgoing Item(s).",
+    "version": "2.15.2",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.2/Elite-4-Lazy-Vendor-Desk-2.15.2.exe",
+    "sha256": "2295106a6bd8171709a0f3b30171c920e54ae54cb05f622601ac8b76cf7e49b8",
+    "size": 111806698,
+    "notes": "Scan Cards on the phone (a photo of the cards → Incoming Product lines; a shop owner sets it up in Settings → Card Scanner with the shop's Ximilar key). Description 1 is now the card name and number (\"Charizard ex 223/197\") and Description 2 the set, for Upload TCG Player CSV, pasting TCGplayer columns and Scan Cards alike.",
     "date": "2026-11-18"
   }
 }
