@@ -10,21 +10,21 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.15.2",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.2/lvd-web-0.15.2.zip",
-      "sha256": "09c5e7f6a5046d8af865601c3b2591c3679f010b62da66d241c62bdfff53ab41",
+      "version": "0.15.3",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.3/lvd-web-0.15.3.zip",
+      "sha256": "1aff2a03918e94c6804cef9f02503c7cc6d11b8518793e2f4bfad84d806b0931",
       "minBuild": 26,
-      "notes": "Scan Cards reads graded slabs (Cards / Graded Slab): Description 2 the set, Con/Grade/Sealed the company and grade (PSA 10, BGS 10 BL, CGC 10 PRIS), Certification # from the label. Description 2's hint is now \"Card or Product set\".",
+      "notes": "The light red Certification # reminder now also turns on when Con/Grade/Sealed starts with PSA, BGS, CGC, TAG or SGC.",
       "date": "2026-11-18"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.15.4",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.4/Elite-4-Lazy-Vendor-Desk-2.15.4.exe",
-    "sha256": "7a94a387c3cc7b5bb6c2b6871667916db0bf36003658bd8bb45950edcb862283",
-    "size": 111808785,
-    "notes": "Scan Cards reads graded slabs (Cards / Graded Slab): Description 2 the set, Con/Grade/Sealed the company and grade (PSA 10, BGS 10 BL, CGC 10 PRIS), Certification # from the label. Description 2's hint is now \"Card or Product set\".",
+    "version": "2.15.5",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.5/Elite-4-Lazy-Vendor-Desk-2.15.5.exe",
+    "sha256": "5a3365137b1fa29716f55d1f2bf73b07234d2c0c55d7f90f56b3ebd91b52ee48",
+    "size": 111813573,
+    "notes": "The light red Certification # reminder now also turns on when Con/Grade/Sealed starts with PSA, BGS, CGC, TAG or SGC.",
     "date": "2026-11-18"
   }
 }
