@@ -10,11 +10,11 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.14.1",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.14.1/lvd-web-0.14.1.zip",
-      "sha256": "fa0a66f8c3075abcb95362922ab92a0d94d8f479108887a12bad3ea2dfb92363",
+      "version": "0.14.2",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.14.2/lvd-web-0.14.2.zip",
+      "sha256": "d7d10bde67c445cc824ac5cef24e34ad54e99efa71b1026f3aa7579fdfe1b30a",
       "minBuild": 22,
-      "notes": "0.14.1: test live update. The Outgoing Items header on Buy/Sell/Trade now reads Outgoing Item(s).",
+      "notes": "0.14.2: Inventory → Select now has Deactivate, to archive all the checked items at once.",
       "date": "2026-11-18"
     }
   },
