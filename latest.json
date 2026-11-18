@@ -20,11 +20,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.16.1",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.16.1/Elite-4-Lazy-Vendor-Desk-2.16.1.exe",
-    "sha256": "08a4da27db1c499f73c27aca6678fadb8817c8d4d91fd75df6d7e88db3055c9a",
-    "size": 111811892,
-    "notes": "Settings: Phones & cloud is first, and every card's notes are short.",
+    "version": "2.16.2",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.16.2/Elite-4-Lazy-Vendor-Desk-2.16.2.exe",
+    "sha256": "4e277c99c43dbf2befab4ff7b8d069297068d90e98578359bc215120ba34a852",
+    "size": 111809858,
+    "notes": "Inventory Manager: no stray check box when there are no items yet.",
     "date": "2026-11-18"
   }
 }
