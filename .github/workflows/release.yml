@@ -2,8 +2,8 @@ name: Publish a release
 
 # Release files arrive on the "incoming" branch (pushed by build/publish.js from the program's private source),
 # split into parts under 100 MB (GitHub's limit for one file in git), with incoming/release.json saying what they
-# are. This joins the parts, checks each file's SHA-256, makes the GitHub release with them (or adds them to it),
-# then deletes the branch. latest.json on main is updated afterwards, once the files are there.
+# are (the parts are pushed one at a time to "staging" first, so no single push is too big). This joins the parts,
+# checks each file's SHA-256, makes the GitHub release with them (or adds them to it), then deletes both branches. latest.json on main is updated afterwards, once the files are there.
 on:
   push:
     branches: [incoming]
@@ -49,6 +49,8 @@ jobs:
           fi
           gh release view "$tag" --json assets --jq '.assets[] | "\(.name) \(.size)"'
 
-      - name: Remove the incoming branch
+      - name: Remove the incoming and staging branches
         if: always() && hashFiles('incoming/release.json') != ''
-        run: git push origin --delete incoming || true
+        run: |
+          git push origin --delete incoming || true
+          git push origin --delete staging || true
