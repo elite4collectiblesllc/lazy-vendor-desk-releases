@@ -50,5 +50,5 @@ jobs:
           gh release view "$tag" --json assets --jq '.assets[] | "\(.name) \(.size)"'
 
       - name: Remove the incoming branch
-        if: always()
+        if: always() && hashFiles('incoming/release.json') != ''
         run: git push origin --delete incoming || true
