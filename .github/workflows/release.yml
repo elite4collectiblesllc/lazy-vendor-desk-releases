@@ -1,0 +1,54 @@
+name: Publish a release
+
+# Release files arrive on the "incoming" branch (pushed by build/publish.js from the program's private source),
+# split into parts under 100 MB (GitHub's limit for one file in git), with incoming/release.json saying what they
+# are. This joins the parts, checks each file's SHA-256, makes the GitHub release with them (or adds them to it),
+# then deletes the branch. latest.json on main is updated afterwards, once the files are there.
+on:
+  push:
+    branches: [incoming]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: incoming
+
+      - name: Join the parts, check them, publish
+        if: hashFiles('incoming/release.json') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          R=incoming/release.json
+          tag=$(jq -r .tag "$R")
+          title=$(jq -r .title "$R")
+          latest=$(jq -r '.latest // false' "$R")
+          jq -r '.notes // ""' "$R" > notes.md
+          mkdir -p out
+          for i in $(seq 0 $(( $(jq '.files | length' "$R") - 1 ))); do
+            name=$(jq -r ".files[$i].name" "$R")
+            sha=$(jq -r ".files[$i].sha256" "$R")
+            cat incoming/files/"$name".part* > "out/$name"
+            echo "$sha  out/$name" | sha256sum -c -
+          done
+          if gh release view "$tag" >/dev/null 2>&1; then
+            gh release upload "$tag" out/* --clobber
+          else
+            gh release create "$tag" out/* --title "$title" --notes-file notes.md --target main --latest="$latest"
+          fi
+          gh release view "$tag" --json assets --jq '.assets[] | "\(.name) \(.size)"'
+
+      - name: Remove the incoming branch
+        if: always()
+        run: git push origin --delete incoming || true
