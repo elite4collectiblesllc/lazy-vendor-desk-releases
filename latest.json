@@ -10,21 +10,21 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.17.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.17.0/lvd-web-0.17.0.zip",
-      "sha256": "91a70d5cb792c296a39ebcb5e3601e63c0caf4808cea504669fce7c1269e5266",
+      "version": "0.17.1",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.17.1/lvd-web-0.17.1.zip",
+      "sha256": "6aedf1957a54d7e5a5456e334f9f78134dc5ff488c99c3bb6ba7bde15cc02a0d",
       "minBuild": 26,
-      "notes": "Cost Basis on Incoming Product(s) can now be typed or pasted (per item). Blank lines are still calculated: they split whatever's left of the Total Incoming Cost. Typed costs can't add up to more than that total, and when every line is typed they have to match it exactly before the transaction can be saved.",
+      "notes": "Shops are easier to tell apart: the shop lists on the computer and phone show when each shop was started, how many transactions it has, which computer keeps it, or that it's empty. A same-name copy can be removed. Using an empty shop (one made on a phone first) puts the computer's inventory and transactions in it instead of making a second shop. The phone's Set up your shop screen now points to the computer first.",
       "date": "2026-11-18"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.18.1",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.18.1/Elite-4-Lazy-Vendor-Desk-2.18.1.exe",
-    "sha256": "6daac1de0c123bb805d0c3762d09c30652591e9310b7ae2b6e062824eed88a16",
-    "size": 111817023,
-    "notes": "Fixes a computer ending up on a second shop: Phones & cloud now lists your shops first, with when each was started, and asks before starting a new one. A same-name copy can be removed from your shops. Transactions saved on a computer while it wasn't connected can be added to the shop (Add to the Shop). A red bar warns when a computer isn't on the shop its folder's Inventory Manager.xlsx belongs to.",
+    "version": "2.18.2",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.18.2/Elite-4-Lazy-Vendor-Desk-2.18.2.exe",
+    "sha256": "e9c4ff2f5465f945ca2ca1ff3d2227f3efe3537b274033e751d90f4c1aaeea18",
+    "size": 111818335,
+    "notes": "Shops are easier to tell apart: the shop lists on the computer and phone show when each shop was started, how many transactions it has, which computer keeps it, or that it's empty. A same-name copy can be removed. Using an empty shop (one made on a phone first) puts the computer's inventory and transactions in it instead of making a second shop. The phone's Set up your shop screen now points to the computer first.",
     "date": "2026-11-18"
   }
 }
