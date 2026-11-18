@@ -10,21 +10,21 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.16.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.16.0/lvd-web-0.16.0.zip",
-      "sha256": "f6a549729f7baf5e4a704bc532505d5f2295fd1a8649c6e0b4172254e18dbebd",
+      "version": "0.16.1",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.16.1/lvd-web-0.16.1.zip",
+      "sha256": "42b321d56a2fb2c0863e3948258c03546273d51091bd3e084c144e9a5ac8b1be",
       "minBuild": 26,
-      "notes": "Date Acq on each Incoming Product(s) line (today to start with), with a calendar button that gives every line the first line's date: for entering a trade from another day.",
+      "notes": "Date Acq is now free text: type or paste a date any way (10/31/26, Oct 31, 103126…) and it becomes MM/DD/YYYY. Paste a column of dates to fill many lines at once. A date that can't be read shows in red and must be fixed before saving.",
       "date": "2026-11-18"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.17.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.17.0/Elite-4-Lazy-Vendor-Desk-2.17.0.exe",
-    "sha256": "fde3cef52e49f4ddfa5a2a8e7503a433ab33c6f1f5d1fa1066aadcbf6bc576e9",
-    "size": 111813436,
-    "notes": "Date Acq on each Incoming Product(s) line (today to start with), with a calendar button that gives every line the first line's date: for entering a trade from another day.",
+    "version": "2.17.1",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.17.1/Elite-4-Lazy-Vendor-Desk-2.17.1.exe",
+    "sha256": "1a652e210854c495e991a3d79e2702a475c0224578185f7209fcd09ef498578a",
+    "size": 111810699,
+    "notes": "Date Acq is now free text: type or paste a date any way (10/31/26, Oct 31, 103126…) and it becomes MM/DD/YYYY. Paste a column of dates to fill many lines at once. A date that can't be read shows in red and must be fixed before saving.",
     "date": "2026-11-18"
   }
 }
