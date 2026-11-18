@@ -20,11 +20,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.16.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.16.0/Elite-4-Lazy-Vendor-Desk-2.16.0.exe",
-    "sha256": "a87875e0f91fce527f6a831188e81ebc21c645b21f063a211518231aa73d5367",
-    "size": 111813534,
-    "notes": "Another shop on this computer: Settings → Another Shop on This Computer → Make a Separate Copy… makes a copy of the program in its own folder, with its own data and sign-in, that runs alongside this one (to set up or help another shop).",
+    "version": "2.16.1",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.16.1/Elite-4-Lazy-Vendor-Desk-2.16.1.exe",
+    "sha256": "08a4da27db1c499f73c27aca6678fadb8817c8d4d91fd75df6d7e88db3055c9a",
+    "size": 111811892,
+    "notes": "Settings: Phones & cloud is first, and every card's notes are short.",
     "date": "2026-11-18"
   }
 }
