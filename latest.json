@@ -10,21 +10,21 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.15.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.0/lvd-web-0.15.0.zip",
-      "sha256": "c94aa16b3e34196ad678b43e589b81097c563e53b0bbac5f850b57c4becf9052",
+      "version": "0.15.1",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.15.1/lvd-web-0.15.1.zip",
+      "sha256": "36eab8fe3bc25ad6d443520e888bc69e5372bc4e583073ff3fee4d90638ca0b0",
       "minBuild": 26,
-      "notes": "Scan Cards on the phone (a photo of the cards → Incoming Product lines; a shop owner sets it up in Settings → Card Scanner with the shop's Ximilar key). Description 1 is now the card name and number (\"Charizard ex 223/197\") and Description 2 the set, for Upload TCG Player CSV, pasting TCGplayer columns and Scan Cards alike.",
+      "notes": "New hints (Card or Product Name; Set, Grading Comp., MISC; Con/Grade/Sealed), Incoming Product(s). Phone: Location Acquired starts blank, Notes without \"Optional.\", room between Complete Transaction and Clear, no \"split evenly\" note. Windows: a tidier Theme card in Settings.",
       "date": "2026-11-18"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.15.2",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.2/Elite-4-Lazy-Vendor-Desk-2.15.2.exe",
-    "sha256": "2295106a6bd8171709a0f3b30171c920e54ae54cb05f622601ac8b76cf7e49b8",
-    "size": 111806698,
-    "notes": "Scan Cards on the phone (a photo of the cards → Incoming Product lines; a shop owner sets it up in Settings → Card Scanner with the shop's Ximilar key). Description 1 is now the card name and number (\"Charizard ex 223/197\") and Description 2 the set, for Upload TCG Player CSV, pasting TCGplayer columns and Scan Cards alike.",
+    "version": "2.15.3",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.15.3/Elite-4-Lazy-Vendor-Desk-2.15.3.exe",
+    "sha256": "648fe6dc489193049a81cd3607ab7eb782db093dd706cbc3b4bbf26cd5f154f5",
+    "size": 111805574,
+    "notes": "New hints (Card or Product Name; Set, Grading Comp., MISC; Con/Grade/Sealed), Incoming Product(s). Phone: Location Acquired starts blank, Notes without \"Optional.\", room between Complete Transaction and Clear, no \"split evenly\" note. Windows: a tidier Theme card in Settings.",
     "date": "2026-11-18"
   }
 }
