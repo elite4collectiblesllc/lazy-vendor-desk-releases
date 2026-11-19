@@ -10,12 +10,12 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.19.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.19.0/lvd-web-0.19.0.zip",
-      "sha256": "70d00fc3e289d72c6ac2da018894d2b74a39914225d8104a8df5144b01eb6787",
+      "version": "0.19.1",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.19.1/lvd-web-0.19.1.zip",
+      "sha256": "435bbc2384fb6e33b537fedd898ab8c230c5b38cf41e9ffd3ad84be8634c46a4",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Settings → Delete My Account. A shop's only owner can save a copy of its inventory and transactions first (install this version of the app for that).",
+      "notes": "Privacy Policy link under the sign-in box and in Settings.",
       "date": "2026-11-19"
     }
   },
