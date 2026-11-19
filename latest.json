@@ -10,12 +10,12 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.22.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.22.0/lvd-web-0.22.0.zip",
-      "sha256": "1d8047ceb1984f33e57d11175fa76e9519db3a3a828153cd5166dc2155086c3c",
+      "version": "0.23.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.23.0/lvd-web-0.23.0.zip",
+      "sha256": "e3c61848aceb38ed4fef76922b15411869e0aae9a0ed8cf18aab3bdfb9dcd57c",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Cash sales: the Discount % boxes are now % of Market (type 85 for 85% of Market Price). The Trade Summary still shows the Discount.",
+      "notes": "Phone: Item before Product ID and Cost Basis before Qty on Outgoing Items; Re-calculate next to % of Market when the Sold Prices don't match Customer Paid; shorter Notes hint.",
       "date": "2026-11-19"
     }
   },
