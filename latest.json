@@ -10,21 +10,21 @@
       "date": "2026-11-18"
     },
     "web": {
-      "version": "0.17.1",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.17.1/lvd-web-0.17.1.zip",
-      "sha256": "6aedf1957a54d7e5a5456e334f9f78134dc5ff488c99c3bb6ba7bde15cc02a0d",
+      "version": "0.18.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.18.0/lvd-web-0.18.0.zip",
+      "sha256": "6661234dc9540a3a287bd1b9550006f6474fae5fe3c1be04faad23c19da512b1",
       "minBuild": 26,
-      "notes": "Shops are easier to tell apart: the shop lists on the computer and phone show when each shop was started, how many transactions it has, which computer keeps it, or that it's empty. A same-name copy can be removed. Using an empty shop (one made on a phone first) puts the computer's inventory and transactions in it instead of making a second shop. The phone's Set up your shop screen now points to the computer first.",
-      "date": "2026-11-18"
+      "notes": "Report a Problem: tell us when something isn't working. On the computer it's the button at the top right; on the phone it's at the top of Settings. If something goes wrong unexpectedly, a red bar offers Report This.",
+      "date": "2026-11-19"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.18.2",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.18.2/Elite-4-Lazy-Vendor-Desk-2.18.2.exe",
-    "sha256": "e9c4ff2f5465f945ca2ca1ff3d2227f3efe3537b274033e751d90f4c1aaeea18",
-    "size": 111818335,
-    "notes": "Shops are easier to tell apart: the shop lists on the computer and phone show when each shop was started, how many transactions it has, which computer keeps it, or that it's empty. A same-name copy can be removed. Using an empty shop (one made on a phone first) puts the computer's inventory and transactions in it instead of making a second shop. The phone's Set up your shop screen now points to the computer first.",
-    "date": "2026-11-18"
+    "version": "2.19.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.19.0/Elite-4-Lazy-Vendor-Desk-2.19.0.exe",
+    "sha256": "948ef116af4ba5a29582cca8664b545078e78ab378ac087835a605ec105b2827",
+    "size": 111827184,
+    "notes": "Report a Problem: tell us when something isn't working. On the computer it's the button at the top right; on the phone it's at the top of Settings. If something goes wrong unexpectedly, a red bar offers Report This.",
+    "date": "2026-11-19"
   }
 }
