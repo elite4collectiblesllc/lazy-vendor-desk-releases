@@ -9,3 +9,5 @@ The files the Elite 4 Lazy Vendor Desk apps update themselves from. There's no s
 
 To start using the program, download the newest Windows program from **Releases**, put it in a folder of its own
 and open it. From then on, it and the phone app update themselves.
+
+**Privacy policy:** [PRIVACY.md](PRIVACY.md) (what the apps collect, who receives it, and how to delete your account).
