@@ -21,11 +21,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.21.1",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.21.1/Elite-4-Lazy-Vendor-Desk-2.21.1.exe",
-    "sha256": "cccbc161a55144ce5aa92757823eb50fb84d88fa1eaac5998d913f6ffb98f283",
-    "size": 111842497,
-    "notes": "Price tags print now: DYMO Connect turned down the price tag label before (\"Invalid label file\").",
+    "version": "2.21.2",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.21.2/Elite-4-Lazy-Vendor-Desk-2.21.2.exe",
+    "sha256": "591f4691800a98767016c8333e670a4a92a02b663a8d103cd313d178a41932a0",
+    "size": 111843531,
+    "notes": "Price tags print the way the shop laid them out: the price in bold, upside down, in the tag's corner.",
     "date": "2026-11-19"
   }
 }
