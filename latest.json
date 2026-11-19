@@ -10,22 +10,22 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.19.1",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.19.1/lvd-web-0.19.1.zip",
-      "sha256": "435bbc2384fb6e33b537fedd898ab8c230c5b38cf41e9ffd3ad84be8634c46a4",
+      "version": "0.20.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.20.0/lvd-web-0.20.0.zip",
+      "sha256": "6a729b50107a4aef6b7d7d2fad684adb5aa43d70796afbe529b05ce79a97de30",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Privacy Policy link under the sign-in box and in Settings.",
+      "notes": "Sales: type each item's Market Price, then give a discount on the whole sale (type what the customer paid, or a Discount %) or on one item. The Sold Price after the discount is what's recorded, and Accounting shows the Discounts. An item can't go on Outgoing Items more times than it's in stock.",
       "date": "2026-11-19"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.19.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.19.0/Elite-4-Lazy-Vendor-Desk-2.19.0.exe",
-    "sha256": "948ef116af4ba5a29582cca8664b545078e78ab378ac087835a605ec105b2827",
-    "size": 111827184,
-    "notes": "Report a Problem: tell us when something isn't working. On the computer it's the button at the top right; on the phone it's at the top of Settings. If something goes wrong unexpectedly, a red bar offers Report This.",
+    "version": "2.20.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.20.0/Elite-4-Lazy-Vendor-Desk-2.20.0.exe",
+    "sha256": "6587efb1efa442083dc34b25c2eae7eb9d64840083376775dde3c374ac61fbe0",
+    "size": 111838103,
+    "notes": "Sales: type each item's Market Price, then give a discount on the whole sale (type what the customer paid, or a Discount %) or on one item. The Sold Price after the discount is what's recorded, and Accounting shows the Discounts. An item can't go on Outgoing Items more times than it's in stock.",
     "date": "2026-11-19"
   }
 }
