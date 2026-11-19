@@ -10,22 +10,22 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.20.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.20.0/lvd-web-0.20.0.zip",
-      "sha256": "6a729b50107a4aef6b7d7d2fad684adb5aa43d70796afbe529b05ce79a97de30",
+      "version": "0.21.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.21.0/lvd-web-0.21.0.zip",
+      "sha256": "01e4cb4a6a7bb617b9f370155060fdebe8a237e9aed7065d1ceb66cc90c39827",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Sales: type each item's Market Price, then give a discount on the whole sale (type what the customer paid, or a Discount %) or on one item. The Sold Price after the discount is what's recorded, and Accounting shows the Discounts. An item can't go on Outgoing Items more times than it's in stock.",
+      "notes": "Deckbox: Save Last Comps keeps each item's Comp with the date, and it fills Market Price when the item is sold; a green note on the item shows it. Price tags print on their own 7/8 x 15/16\" labels, and the app says when the other roll is in.",
       "date": "2026-11-19"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.20.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.20.0/Elite-4-Lazy-Vendor-Desk-2.20.0.exe",
-    "sha256": "6587efb1efa442083dc34b25c2eae7eb9d64840083376775dde3c374ac61fbe0",
-    "size": 111838103,
-    "notes": "Sales: type each item's Market Price, then give a discount on the whole sale (type what the customer paid, or a Discount %) or on one item. The Sold Price after the discount is what's recorded, and Accounting shows the Discounts. An item can't go on Outgoing Items more times than it's in stock.",
+    "version": "2.21.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.21.0/Elite-4-Lazy-Vendor-Desk-2.21.0.exe",
+    "sha256": "a56b111ae5b73339877ebc8637eb7d4edd8641f8d9dfabcee0aa0f14c3194411",
+    "size": 111843967,
+    "notes": "Deckbox: Save Last Comps keeps each item's Comp with the date, and it fills Market Price when the item is sold; a green note on the item shows it. Price tags print on their own 7/8 x 15/16\" labels, and the app says when the other roll is in.",
     "date": "2026-11-19"
   }
 }
