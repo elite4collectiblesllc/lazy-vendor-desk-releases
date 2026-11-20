@@ -21,11 +21,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.23.1",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.23.1/Elite-4-Lazy-Vendor-Desk-2.23.1.exe",
-    "sha256": "30b74435780a2ef04679662a3e329db231e44e1a8d193179d2825bc090e0d448",
-    "size": 111850696,
-    "notes": "Deckbox: a Comp box no longer stays locked when the list is busy, and taking an item off the list frees its box. Phone: labels are sent again if the cloud is busy for a moment.",
+    "version": "2.24.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.24.0/Elite-4-Lazy-Vendor-Desk-2.24.0.exe",
+    "sha256": "de0822f16a7b81204a0ddaf30ab7f0fa61536c233ef10792643a4481fe991917",
+    "size": 111851372,
+    "notes": "Transaction History always fits the window: no sideways scroll bar at any size, and when editing a transaction the card names keep room to type.",
     "date": "2026-11-20"
   }
 }
