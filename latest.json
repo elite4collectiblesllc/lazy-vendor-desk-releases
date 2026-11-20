@@ -21,11 +21,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.24.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.24.0/Elite-4-Lazy-Vendor-Desk-2.24.0.exe",
-    "sha256": "de0822f16a7b81204a0ddaf30ab7f0fa61536c233ef10792643a4481fe991917",
-    "size": 111851372,
-    "notes": "Transaction History always fits the window: no sideways scroll bar at any size, and when editing a transaction the card names keep room to type.",
+    "version": "2.25.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.25.0/Elite-4-Lazy-Vendor-Desk-2.25.0.exe",
+    "sha256": "28d4b6381da62991788aae5c15bbc6ffb5f8e59ccfe6e52e480ed30acef79346",
+    "size": 111862604,
+    "notes": "Price tags print on 1/2 × 1\" labels too (DYMO 30333, two across), centered: the roll in the printer decides.",
     "date": "2026-11-20"
   }
 }
