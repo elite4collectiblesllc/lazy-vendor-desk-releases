@@ -10,22 +10,22 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.23.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.23.0/lvd-web-0.23.0.zip",
-      "sha256": "e3c61848aceb38ed4fef76922b15411869e0aae9a0ed8cf18aab3bdfb9dcd57c",
+      "version": "0.24.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.24.0/lvd-web-0.24.0.zip",
+      "sha256": "ec51ad95ff458d14f7aec4339b3588925801e89f77c4a3007522d3b64de15a6b",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Phone: Item before Product ID and Cost Basis before Qty on Outgoing Items; Re-calculate next to % of Market when the Sold Prices don't match Customer Paid; shorter Notes hint.",
-      "date": "2026-11-19"
+      "notes": "Settings → Label Printer can turn off printing labels after Complete Transaction. Con/Grade/Sealed boxes have a list (NM, LP, MP, HP, DMG, Sealed). Phone: Reprint Label on an item; Settings reordered. Settings titles capitalized.",
+      "date": "2026-11-20"
     }
   },
   "minimum": {},
   "desktop": {
-    "version": "2.22.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.22.0/Elite-4-Lazy-Vendor-Desk-2.22.0.exe",
-    "sha256": "2bbf9509e9dab926bc62e1285f90d2a34c75037553dfd0ab106cffc199695838",
-    "size": 111847707,
-    "notes": "Cash sales: the Discount % boxes are now % of Market (type 85 for 85% of Market Price). The Trade Summary still shows the Discount.",
-    "date": "2026-11-19"
+    "version": "2.23.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.23.0/Elite-4-Lazy-Vendor-Desk-2.23.0.exe",
+    "sha256": "8b8bbf3aa0158e10c372ca75d9744069b110416ac9747c76818afc9e40ee7c6a",
+    "size": 111850171,
+    "notes": "Settings → Label Printer can turn off printing labels after Complete Transaction. Con/Grade/Sealed boxes have a list (NM, LP, MP, HP, DMG, Sealed). Phone: Reprint Label on an item; Settings reordered. Settings titles capitalized.",
+    "date": "2026-11-20"
   }
 }
