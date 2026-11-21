@@ -21,11 +21,11 @@
   },
   "minimum": {},
   "desktop": {
-    "version": "2.26.0",
-    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.26.0/Elite-4-Lazy-Vendor-Desk-2.26.0.exe",
-    "sha256": "8942d8a1626e45ee26ac4df4cc2dabe4efa0709576425ac338d15e5300ab3b64",
-    "size": 111856898,
-    "notes": "Deckbox: check items to print only those (nothing checked prints the whole list). Price Tag is picked to start with. Printing more than 25 labels at once asks first.",
-    "date": "2026-11-20"
+    "version": "2.27.0",
+    "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/desktop-v2.27.0/Elite-4-Lazy-Vendor-Desk-2.27.0.exe",
+    "sha256": "7f20536b9f1d0952e8fbf90849bb31e62e64064f29478c92b6aff43a611bbf5c",
+    "size": 111857787,
+    "notes": "Transaction History always fills the window's width, so the search box and buttons line up with the list.",
+    "date": "2026-11-21"
   }
 }
