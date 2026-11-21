@@ -10,13 +10,13 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.25.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.25.0/lvd-web-0.25.0.zip",
-      "sha256": "bdf7e36e6aedccd8bb9cd4d721a99a0c8e6667638d034b736eea9b310d799543",
+      "version": "0.25.1",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.25.1/lvd-web-0.25.1.zip",
+      "sha256": "b2c65eb0a8498cc1f767172e68b2d5ebe07eb9357cf6396d782f4a55c5fe1fe6",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Deckbox: check items to print only those (nothing checked prints the whole list). Price Tag is picked to start with. Printing more than 25 labels at once asks first.",
-      "date": "2026-11-20"
+      "notes": "Certification # in Incoming Product(s) opens the full keyboard (some graders, like TAG, use letters).",
+      "date": "2026-11-21"
     }
   },
   "minimum": {},
