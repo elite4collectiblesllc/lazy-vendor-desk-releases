@@ -10,13 +10,13 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.26.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.26.0/lvd-web-0.26.0.zip",
-      "sha256": "fcb8c257e5ccf13bb82d1aa19432d7da67913d1ccf6149e4012d9f5302d2603e",
+      "version": "0.27.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.27.0/lvd-web-0.27.0.zip",
+      "sha256": "aa4fffe18525b61ddb4541227f96892fc7e85b3b4cf095c52a9f94b46bc52646",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Slabs: a barcode button beside Certification # reads the slab's barcode or QR code. Wrong? Report This Scan sends the photo and what the scanner read.",
-      "date": "2026-11-21"
+      "notes": "Scan Cards is included for every shop, with nothing to set up. Settings → Card Scanner shows this month's scans.",
+      "date": "2026-11-22"
     }
   },
   "minimum": {},
