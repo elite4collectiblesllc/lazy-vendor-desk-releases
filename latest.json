@@ -10,13 +10,13 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.27.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.27.0/lvd-web-0.27.0.zip",
-      "sha256": "aa4fffe18525b61ddb4541227f96892fc7e85b3b4cf095c52a9f94b46bc52646",
+      "version": "0.28.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.28.0/lvd-web-0.28.0.zip",
+      "sha256": "11d29c0a5fd855125d8731a121ad24b0680318096298d6c0779f3b95648d0888",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Scan Cards is included for every shop, with nothing to set up. Settings → Card Scanner shows this month's scans.",
-      "date": "2026-11-22"
+      "notes": "Add From a Photo: in Outgoing Item(s), take a photo of the items going out, stickers up, and every item whose label is read is added. Green boxes show what was added. Then Scan What's Coming In opens Scan Cards.",
+      "date": "2026-11-23"
     }
   },
   "minimum": {},
