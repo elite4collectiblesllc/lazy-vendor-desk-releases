@@ -10,13 +10,13 @@
       "date": "2026-11-19"
     },
     "web": {
-      "version": "0.29.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.29.0/lvd-web-0.29.0.zip",
-      "sha256": "8ec5344b498f607cc7a7049e63a3609235a9d67f7bf7f512d5a41fc8eb6d4ad8",
+      "version": "0.30.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.30.0/lvd-web-0.30.0.zip",
+      "sha256": "91aacab7757b4746434aca2c2f467f78ce8e088f91b16d6b86066bd21c93c9ab",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "Faster and lighter on the cloud: each phone and computer now downloads only what changed since it was last open, instead of the whole shop every time. New: Refresh Everything (desktop: Settings → Phones & Cloud; phone: Settings → Shop) downloads it all again if anything ever looks out of date.",
-      "date": "2026-11-24"
+      "notes": "New on Buy/Sell/Trade: Fill In From a Note. Type or say what was agreed (conditions, grades, certs, prices, the cash, where) and it lists what to fill in for you to check. Nothing changes until you tap Fill In.",
+      "date": "2026-11-25"
     }
   },
   "minimum": {},
