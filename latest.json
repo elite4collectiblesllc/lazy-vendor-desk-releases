@@ -1,22 +1,23 @@
 {
   "phone": {
     "apk": {
-      "version": "0.19.0",
-      "build": 46,
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.19.0/Lazy-Vendor-Desk-0.19.0-build46.apk",
-      "sha256": "3b85da52e7d213d3f4ac384528b33865093d091f9d8b25beb351439d8e85291e",
-      "size": 29738302,
-      "notes": "Settings → Delete My Account. A shop's only owner can save a copy of its inventory and transactions first (install this version of the app for that).",
-      "date": "2026-11-19"
+      "version": "0.31.0",
+      "build": 63,
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.31.0/Lazy-Vendor-Desk-0.31.0-build63.apk",
+      "sha256": "0ac6c336476d6df05f28284aa3848b075328bc330df3691bb4f76f8613301b2f",
+      "size": 28394304,
+      "notes": "The Android app is now signed with Elite 4 Collectibles' own key. Android phones reinstall once (the app shows how, about 2 minutes); your shop's data stays in the cloud.",
+      "date": "2026-11-26",
+      "reinstallBelow": 63
     },
     "web": {
-      "version": "0.30.0",
-      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.30.0/lvd-web-0.30.0.zip",
-      "sha256": "91aacab7757b4746434aca2c2f467f78ce8e088f91b16d6b86066bd21c93c9ab",
+      "version": "0.31.0",
+      "url": "https://github.com/elite4collectiblesllc/lazy-vendor-desk-releases/releases/download/phone-v0.31.0/lvd-web-0.31.0.zip",
+      "sha256": "4cfd29bcfb18571d9714efbfea1c6db4ef40c058ff634ad582a6c63c45cf01ea",
       "minBuild": 26,
       "minIosBuild": 0,
-      "notes": "New on Buy/Sell/Trade: Fill In From a Note. Type or say what was agreed (conditions, grades, certs, prices, the cash, where) and it lists what to fill in for you to check. Nothing changes until you tap Fill In.",
-      "date": "2026-11-25"
+      "notes": "The Android app is now signed with Elite 4 Collectibles' own key. Android phones reinstall once (the app shows how, about 2 minutes); your shop's data stays in the cloud.",
+      "date": "2026-11-26"
     },
     "ios": {
       "version": "0.19.1",
