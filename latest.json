@@ -17,6 +17,13 @@
       "minIosBuild": 0,
       "notes": "New on Buy/Sell/Trade: Fill In From a Note. Type or say what was agreed (conditions, grades, certs, prices, the cash, where) and it lists what to fill in for you to check. Nothing changes until you tap Fill In.",
       "date": "2026-11-25"
+    },
+    "ios": {
+      "version": "0.19.1",
+      "build": 10,
+      "url": "https://testflight.apple.com/join/j11Dfhcq",
+      "notes": "Privacy Policy link on the sign-in screen and in Settings.",
+      "date": "2026-11-26"
     }
   },
   "minimum": {},
